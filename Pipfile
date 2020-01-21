@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+zappa = "*"
+
+[packages]
+boto3 = "*"
+scikit-learn = "~=0.21.3"
+flask = "*"
+flask-cors = "*"
+zappa = "*"
+dill = "*"
+sklearn-transformers = {git = "https://github.com/free-and-fair-common-sense-algorithms/sklearn_transformers.git"}
+
+[requires]
+python_version = "3.6"
