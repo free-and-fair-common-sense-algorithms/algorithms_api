@@ -1,6 +1,6 @@
 ![Free and Fair Commonsense Algorithms for Society](./docs/image_sm.jpg)
 # Algorithms API
----
+
 Free and Fair Commonsense Algorithms for Society is a platform for fair, open-source, and math-based algorithms for individual, commercial, and institutional use, built using cutting edge machine learning techniques and designed to improve the well-being of the individuals impacted by the algorithms.
 
 This repository hosts the platform’s API providing the predict endpoint interfaces to the models.
